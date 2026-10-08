@@ -1,0 +1,25 @@
+# Données (téléchargées automatiquement par kagglehub)
+*.npz
+fer2013/
+data/
+
+# Modèles entraînés (trop lourds, régénérés par le notebook)
+*.keras
+*.h5
+*.pt
+*.onnx
+
+# Photos et vidéos de test (droits d'auteur / données personnelles)
+images_test/
+videos_test/
+partie8/
+partie9/
+*.mp4
+*.avi
+*.mov
+
+# Fichiers techniques
+*.log
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

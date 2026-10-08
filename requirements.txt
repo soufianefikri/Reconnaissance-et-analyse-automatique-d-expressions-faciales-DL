@@ -1,0 +1,13 @@
+# Environnement testé : Google Colab (Python 3, GPU T4)
+tensorflow>=2.15
+keras>=3.0
+torch
+ultralytics>=8.1
+lap
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+kagglehub
